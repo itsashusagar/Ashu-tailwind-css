@@ -35,8 +35,8 @@
 
 ### 💻 Source Code
 
-- 🔗 [Chapter 1 - Introduction, Basics, & Guide](https://github.com/itsashusagar/tailwind-css-course/tree/main/lesson01)
+- 🔗 [Chapter 1 - Introduction, Basics, & Guide](https://github.com/itsashusagar/Ashu-Tailwind-css/tree/main/lesson01)
 - 🔗 [Chapter 2 - Project Part 1: Acme Rockets](https://github.com/itsashusagar/Ashu-tailwind-css/tree/main/lesson02)
-- 🔗 [Chapter 3 - Project Part 2: Acme Rockets](https://github.com/itsashusagar/tailwind-css-course/tree/main/lesson03)
-- 🔗 [Chapter 4 - Project Part 3: Mobile Menu](https://github.com/itsashusagar/tailwind-css-course/tree/main/lesson04)
-- 🔗 [Chapter 5 - Project Part 4: Deploy](https://github.com/itsashusagar/tailwind-css-course/tree/main/lesson05)
+- 🔗 [Chapter 3 - Project Part 2: Acme Rockets](https://github.com/itsashusagar/Ashu-tailwind-css/tree/main/lesson03)
+- 🔗 [Chapter 4 - Project Part 3: Mobile Menu](https://github.com/itsashusagar/Ashu-tailwind-css/tree/main/lesson04)
+- 🔗 [Chapter 5 - Project Part 4: Deploy](https://github.com/itsashusagar/Ashu-tailwind-css/tree/main/lesson05)
